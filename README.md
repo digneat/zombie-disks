@@ -5,7 +5,7 @@ A two-pass, recoverable cleaner for orphaned VMDK files on VMware vSphere datast
 ## Quickstart
 
 ```bash
-git clone https://github.com/CloudCraftPro/zombie-disks.git
+git clone https://github.com/digneat/zombie-disks.git
 cd zombie-disks
 pip3 install -r requirements.txt
 
